@@ -1,0 +1,20 @@
+# Core
+pandas
+numpy
+scipy
+matplotlib
+scikit-learn
+adjustText
+tqdm
+requests
+python-dotenv
+jupyter
+
+# LLM clients (install only those you call)
+anthropic
+openai
+google-genai
+asknews
+
+# Optional: local inference (heavy install; only needed for vllm/* models)
+# vllm

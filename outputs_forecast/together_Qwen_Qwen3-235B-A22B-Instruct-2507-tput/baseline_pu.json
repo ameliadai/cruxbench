@@ -1,0 +1,1467 @@
+[
+  {
+    "ultimate_question": "Fed decreases interest rates by 50+ bps after January 2026 meeting?",
+    "period_idx": 0,
+    "p_u": 0.35
+  },
+  {
+    "ultimate_question": "Trump declassifies UFO files in 2025?",
+    "period_idx": 0,
+    "p_u": 0.68
+  },
+  {
+    "ultimate_question": "US recession in 2025?",
+    "period_idx": 0,
+    "p_u": 0.38
+  },
+  {
+    "ultimate_question": "Will Max Verstappen be the 2025 Drivers Champion?",
+    "period_idx": 1,
+    "p_u": 0.32
+  },
+  {
+    "ultimate_question": "US strikes Iran by June 30, 2026?",
+    "period_idx": 0,
+    "p_u": 0.15
+  },
+  {
+    "ultimate_question": "Will Trump meet with Xi Jinping by October 31?",
+    "period_idx": 0,
+    "p_u": 0.35
+  },
+  {
+    "ultimate_question": "Will Artificial Intelligence be TIME's Person of the Year for 2025?",
+    "period_idx": 0,
+    "p_u": 0.72
+  },
+  {
+    "ultimate_question": "US x Venezuela military engagement by October 31?",
+    "period_idx": 0,
+    "p_u": 0.12
+  },
+  {
+    "ultimate_question": "Will Tesla launch a driverless Robotaxi service by October 31?",
+    "period_idx": 0,
+    "p_u": 0.15
+  },
+  {
+    "ultimate_question": "OpenAI browser by October 31?",
+    "period_idx": 0,
+    "p_u": 0.12
+  },
+  {
+    "ultimate_question": "Will Iran close the Strait of Hormuz before 2027?",
+    "period_idx": 0,
+    "p_u": 0.18
+  },
+  {
+    "ultimate_question": "Will Wicked: For Good be the top grossing movie of 2025?",
+    "period_idx": 0,
+    "p_u": 0.38
+  },
+  {
+    "ultimate_question": "Israel and Saudi Arabia normalize relations in 2025?",
+    "period_idx": 0,
+    "p_u": 0.12
+  },
+  {
+    "ultimate_question": "Israel x Hamas ceasefire before 2026?",
+    "period_idx": 0,
+    "p_u": 0.27
+  },
+  {
+    "ultimate_question": "Will James Talarico be the Democratic nominee for Senate in Texas?",
+    "period_idx": 0,
+    "p_u": 0.25
+  },
+  {
+    "ultimate_question": "Will Gemini 3.0 be released by October 31?",
+    "period_idx": 0,
+    "p_u": 0.35
+  },
+  {
+    "ultimate_question": "Will the U.S. invade Venezuela by December 31, 2025?",
+    "period_idx": 1,
+    "p_u": 0.12
+  },
+  {
+    "ultimate_question": "Ukraine signs peace deal with Russia in 2025?",
+    "period_idx": 1,
+    "p_u": 0.18
+  },
+  {
+    "ultimate_question": "Will Eric Adams drop out?",
+    "period_idx": 0,
+    "p_u": 0.18
+  },
+  {
+    "ultimate_question": "Will Taylor Swift be the top Spotify artist for 2025?",
+    "period_idx": 1,
+    "p_u": 0.78
+  },
+  {
+    "ultimate_question": "Will Tim Walz resign by January 31?",
+    "period_idx": 0,
+    "p_u": 0.18
+  },
+  {
+    "ultimate_question": "Ukraine recognizes Russian sovereignty over its territory by December 31, 2025?",
+    "period_idx": 0,
+    "p_u": 0.03
+  },
+  {
+    "ultimate_question": "Taylor Swift pregnant in 2025?",
+    "period_idx": 1,
+    "p_u": 0.12
+  },
+  {
+    "ultimate_question": "Will Russia capture Kupiansk by October 31?",
+    "period_idx": 1,
+    "p_u": 0.23
+  },
+  {
+    "ultimate_question": "Israel strikes Iran by October 31?",
+    "period_idx": 1,
+    "p_u": 0.68
+  },
+  {
+    "ultimate_question": "Israel strikes Iran before 2026?",
+    "period_idx": 0,
+    "p_u": 0.68
+  },
+  {
+    "ultimate_question": "Apple Vision Pro 2 released by December 31?",
+    "period_idx": 0,
+    "p_u": 0.71
+  },
+  {
+    "ultimate_question": "Will TIME's Person of the Year for 2025 be a woman?",
+    "period_idx": 2,
+    "p_u": 0.58
+  },
+  {
+    "ultimate_question": "Will Eric Adams endorse Cuomo?",
+    "period_idx": 0,
+    "p_u": 0.12
+  },
+  {
+    "ultimate_question": "Will tariffs generate >$250b in 2025?",
+    "period_idx": 0,
+    "p_u": 0.03
+  },
+  {
+    "ultimate_question": "Macron out in 2025?",
+    "period_idx": 0,
+    "p_u": 0.12
+  },
+  {
+    "ultimate_question": "Will Hezbollah disarm in 2025?",
+    "period_idx": 1,
+    "p_u": 0.02
+  },
+  {
+    "ultimate_question": "Israel x Iran ceasefire broken by March 31, 2026?",
+    "period_idx": 2,
+    "p_u": 0.35
+  },
+  {
+    "ultimate_question": "Will 'Wicked: For Good' have the best domestic opening weekend in 2025?",
+    "period_idx": 2,
+    "p_u": 0.65
+  },
+  {
+    "ultimate_question": "Starmer out in 2025?",
+    "period_idx": 0,
+    "p_u": 0.38
+  },
+  {
+    "ultimate_question": "Bank of Japan decreases interest rates after January 2026 meeting?",
+    "period_idx": 0,
+    "p_u": 0.08
+  },
+  {
+    "ultimate_question": "Will Trump's approval rating hit 40% in 2025?",
+    "period_idx": 0,
+    "p_u": 0.87
+  },
+  {
+    "ultimate_question": "Will Hamas agree to disarm by December 31?",
+    "period_idx": 3,
+    "p_u": 0.22
+  },
+  {
+    "ultimate_question": "Elon no longer world's richest before 2026?",
+    "period_idx": 0,
+    "p_u": 0.32
+  },
+  {
+    "ultimate_question": "Will USA win the 2025 Ryder Cup?",
+    "period_idx": 0,
+    "p_u": 0.52
+  },
+  {
+    "ultimate_question": "Nothing Ever Happens: Khamenei",
+    "period_idx": 1,
+    "p_u": 0.82
+  },
+  {
+    "ultimate_question": "Will Giannis Antetokounmpo not be traded?",
+    "period_idx": 0,
+    "p_u": 0.65
+  },
+  {
+    "ultimate_question": "Poilievre out as leader of Conservatives in 2025?",
+    "period_idx": 2,
+    "p_u": 0.15
+  },
+  {
+    "ultimate_question": "NYSE marketwide circuit breaker in 2025?",
+    "period_idx": 0,
+    "p_u": 0.18
+  },
+  {
+    "ultimate_question": "Will the 10-year Treasury yield hit 5.0% in 2025?",
+    "period_idx": 0,
+    "p_u": 0.38
+  },
+  {
+    "ultimate_question": "Gaza mass population relocation in 2025?",
+    "period_idx": 0,
+    "p_u": 0.32
+  },
+  {
+    "ultimate_question": "Zelenskyy wears a suit and tie during next Trump meeting?",
+    "period_idx": 0,
+    "p_u": 0.35
+  },
+  {
+    "ultimate_question": "Fed rate cut by October 2025 meeting?",
+    "period_idx": 0,
+    "p_u": 0.93
+  },
+  {
+    "ultimate_question": "Will Trump deport 750,000 or more people in 2025?",
+    "period_idx": 5,
+    "p_u": 0.12
+  },
+  {
+    "ultimate_question": "Will RFK Jr. find the cause of Autism before November?",
+    "period_idx": 0,
+    "p_u": 0.15
+  },
+  {
+    "ultimate_question": "Han Duck-soo in jail by January 31?",
+    "period_idx": 1,
+    "p_u": 0.75
+  },
+  {
+    "ultimate_question": "Will Wicked: For Good be the third highest grossing movie of 2025?",
+    "period_idx": 3,
+    "p_u": 0.68
+  },
+  {
+    "ultimate_question": "Will the ECB announce no change at the February 2026 meeting?",
+    "period_idx": 1,
+    "p_u": 0.72
+  },
+  {
+    "ultimate_question": "Israel x Hamas ceasefire cancelled by December 31?",
+    "period_idx": 0,
+    "p_u": 0.65
+  },
+  {
+    "ultimate_question": "Pedro Sánchez out as PM of Spain in 2025?",
+    "period_idx": 1,
+    "p_u": 0.38
+  },
+  {
+    "ultimate_question": "Will Trump announce Chris Waller as next Fed Chair in 2025?",
+    "period_idx": 2,
+    "p_u": 0.23
+  },
+  {
+    "ultimate_question": "Will iPhone 17 cost more than iPhone 16?",
+    "period_idx": 0,
+    "p_u": 0.85
+  },
+  {
+    "ultimate_question": "Will U.S. National debt surpass $38 trillion in 2025?",
+    "period_idx": 1,
+    "p_u": 0.23
+  },
+  {
+    "ultimate_question": "GPT ads by March 31?",
+    "period_idx": 0,
+    "p_u": 0.85
+  },
+  {
+    "ultimate_question": "Nothing Ever Happens: Military Edition",
+    "period_idx": 2,
+    "p_u": 0.55
+  },
+  {
+    "ultimate_question": "NATO x Russia military clash in 2025?",
+    "period_idx": 0,
+    "p_u": 0.85
+  },
+  {
+    "ultimate_question": "Will the EU impose new tariffs on US goods in 2025?",
+    "period_idx": 2,
+    "p_u": 0.15
+  },
+  {
+    "ultimate_question": "Karen Bass out as Mayor of LA in 2025?",
+    "period_idx": 0,
+    "p_u": 0.03
+  },
+  {
+    "ultimate_question": "Will US or Israel strike Iran by December 31, 2026?",
+    "period_idx": 0,
+    "p_u": 0.35
+  },
+  {
+    "ultimate_question": "California redistricting referendum passes?",
+    "period_idx": 0,
+    "p_u": 0.68
+  },
+  {
+    "ultimate_question": "Will Ukraine agree to give up Russian territory in Kursk?",
+    "period_idx": 2,
+    "p_u": 0.08
+  },
+  {
+    "ultimate_question": "Will Polymarket mindshare hit 80%?",
+    "period_idx": 1,
+    "p_u": 0.18
+  },
+  {
+    "ultimate_question": "Will Trump try to fire Powell in 2025?",
+    "period_idx": 0,
+    "p_u": 0.38
+  },
+  {
+    "ultimate_question": "Will Donald Trump visit Germany in 2025?",
+    "period_idx": 1,
+    "p_u": 0.32
+  },
+  {
+    "ultimate_question": "Will NVIDIA be the second-largest company in the world by market cap on December 31?",
+    "period_idx": 0,
+    "p_u": 0.75
+  },
+  {
+    "ultimate_question": "GOP uses 'Nuclear Option' to break filibuster by December 31?",
+    "period_idx": 0,
+    "p_u": 0.35
+  },
+  {
+    "ultimate_question": "Will the federal government be shut down for 10–29 days in 2025?",
+    "period_idx": 0,
+    "p_u": 0.38
+  },
+  {
+    "ultimate_question": "Taylor Swift holds top ten spots on the Billboard Hot 100 for the week of October 18th?",
+    "period_idx": 1,
+    "p_u": 0.95
+  },
+  {
+    "ultimate_question": "Will Michael Jackson be named in newly released Epstein files?",
+    "period_idx": 3,
+    "p_u": 0.22
+  },
+  {
+    "ultimate_question": "U.S. Government funding lapse on October 1?",
+    "period_idx": 0,
+    "p_u": 0.65
+  },
+  {
+    "ultimate_question": "Paramount x Warner Bros. acquisition announced by June 30?",
+    "period_idx": 0,
+    "p_u": 0.15
+  },
+  {
+    "ultimate_question": "5kt meteor strike in 2025?",
+    "period_idx": 0,
+    "p_u": 0.12
+  },
+  {
+    "ultimate_question": "Will Gold close between $3900 and $4000 at the end of 2025?",
+    "period_idx": 2,
+    "p_u": 0.85
+  },
+  {
+    "ultimate_question": "Will Sam Altman get OpenAI equity in 2025?",
+    "period_idx": 1,
+    "p_u": 0.15
+  },
+  {
+    "ultimate_question": "Will Kim Keon Hee be sentenced to prison by March 31?",
+    "period_idx": 0,
+    "p_u": 0.72
+  },
+  {
+    "ultimate_question": "Pepe ETF in 2025?",
+    "period_idx": 1,
+    "p_u": 0.05
+  },
+  {
+    "ultimate_question": "Will Michael Anton be next National Security Advisor?",
+    "period_idx": 3,
+    "p_u": 0.12
+  },
+  {
+    "ultimate_question": "U.S. forces in Gaza in 2025?",
+    "period_idx": 2,
+    "p_u": 0.15
+  },
+  {
+    "ultimate_question": "Will TIME's Person of the Year for 2025 be a human?",
+    "period_idx": 0,
+    "p_u": 0.95
+  },
+  {
+    "ultimate_question": "Will Trump release more Epstein files in 2025?",
+    "period_idx": 1,
+    "p_u": 0.12
+  },
+  {
+    "ultimate_question": "Trump imposes tariff on semiconductors by December 31?",
+    "period_idx": 0,
+    "p_u": 0.65
+  },
+  {
+    "ultimate_question": "US Treasury transactions on blockchain in 2025?",
+    "period_idx": 0,
+    "p_u": 0.35
+  },
+  {
+    "ultimate_question": "Will Trump establish a Gaza “Board of Peace” by March 31?",
+    "period_idx": 2,
+    "p_u": 0.95
+  },
+  {
+    "ultimate_question": "Will Pope Leo visit another country first?",
+    "period_idx": 1,
+    "p_u": 0.65
+  },
+  {
+    "ultimate_question": "Will China lift rare earths export ban by December 31?",
+    "period_idx": 1,
+    "p_u": 0.15
+  },
+  {
+    "ultimate_question": "OpenAI becomes a for-profit in 2025?",
+    "period_idx": 1,
+    "p_u": 0.15
+  },
+  {
+    "ultimate_question": "Evidence Trump went to Epstein's Island made public in 2025?",
+    "period_idx": 2,
+    "p_u": 0.15
+  },
+  {
+    "ultimate_question": "Will the Fed cut-pause-pause in 2025?",
+    "period_idx": 0,
+    "p_u": 0.65
+  },
+  {
+    "ultimate_question": "Will Russia capture Myrnohrad by September 30?",
+    "period_idx": 0,
+    "p_u": 0.18
+  },
+  {
+    "ultimate_question": "Will Ghislaine Maxwell testify before Congress in 2025?",
+    "period_idx": 1,
+    "p_u": 0.15
+  },
+  {
+    "ultimate_question": "Nothing Ever Happens: US Strike Edition",
+    "period_idx": 0,
+    "p_u": 0.02
+  },
+  {
+    "ultimate_question": "Nikita Bier out as Head of Product at X by December 31?",
+    "period_idx": 0,
+    "p_u": 0.18
+  },
+  {
+    "ultimate_question": "Will Giannis Antetokounmpo be traded this season?",
+    "period_idx": 0,
+    "p_u": 0.65
+  },
+  {
+    "ultimate_question": "Will Amazon acquire Warner Bros. Discovery?",
+    "period_idx": 0,
+    "p_u": 0.35
+  },
+  {
+    "ultimate_question": "Will Italy win the third most gold medals in the 2026 Winter Olympics?",
+    "period_idx": 2,
+    "p_u": 0.12
+  },
+  {
+    "ultimate_question": "Will Rodrigo Paz Pereira win by 15–20%?",
+    "period_idx": 0,
+    "p_u": 0.38
+  },
+  {
+    "ultimate_question": "Will India strike Pakistan by Dec 31?",
+    "period_idx": 1,
+    "p_u": 0.18
+  },
+  {
+    "ultimate_question": "Will Norway win the second most gold medals in the 2026 Winter Olympics?",
+    "period_idx": 2,
+    "p_u": 0.62
+  },
+  {
+    "ultimate_question": "Will A Minecraft Movie be the second highest grossing movie of 2025?",
+    "period_idx": 0,
+    "p_u": 0.85
+  },
+  {
+    "ultimate_question": "Will Juliana Stratton be the Democratic nominee for Senate in Illinois?",
+    "period_idx": 3,
+    "p_u": 0.32
+  },
+  {
+    "ultimate_question": "Will Trump announce David Malpass to replace Lisa Cook?",
+    "period_idx": 1,
+    "p_u": 0.35
+  },
+  {
+    "ultimate_question": "Will Artemis II launch by February 28?",
+    "period_idx": 0,
+    "p_u": 0.75
+  },
+  {
+    "ultimate_question": "Will Israel annex West Bank territory in 2025?",
+    "period_idx": 0,
+    "p_u": 0.65
+  },
+  {
+    "ultimate_question": "Yoon out of custody in 2025?",
+    "period_idx": 2,
+    "p_u": 0.15
+  },
+  {
+    "ultimate_question": "Another GTA VI trailer released in 2025?",
+    "period_idx": 2,
+    "p_u": 0.85
+  },
+  {
+    "ultimate_question": "Will 'Zootopia 2' have the second best domestic opening weekend in 2025?",
+    "period_idx": 2,
+    "p_u": 0.27
+  },
+  {
+    "ultimate_question": "X relaunches Vine in 2025?",
+    "period_idx": 1,
+    "p_u": 0.75
+  },
+  {
+    "ultimate_question": "Will Wesley Hunt come in 3rd in the 2026 Texas Republican Primary?",
+    "period_idx": 0,
+    "p_u": 0.28
+  },
+  {
+    "ultimate_question": "Fed governor resigns by October 31?",
+    "period_idx": 0,
+    "p_u": 0.15
+  },
+  {
+    "ultimate_question": "Will Russia capture Lyman by November 30?",
+    "period_idx": 0,
+    "p_u": 0.15
+  },
+  {
+    "ultimate_question": "Will BLɅϽKPIИK release an album by February 28?",
+    "period_idx": 1,
+    "p_u": 0.75
+  },
+  {
+    "ultimate_question": "Will Silver (SI) hit (HIGH) $110 by end of June?",
+    "period_idx": 0,
+    "p_u": 0.12
+  },
+  {
+    "ultimate_question": "Transgender women be banned from the Olympics before Winter Games?",
+    "period_idx": 2,
+    "p_u": 0.65
+  },
+  {
+    "ultimate_question": "Will Obama endorse Mamdani?",
+    "period_idx": 1,
+    "p_u": 0.15
+  },
+  {
+    "ultimate_question": "EU/NATO country announces peacekeeping force in Ukraine in 2025?",
+    "period_idx": 0,
+    "p_u": 0.38
+  },
+  {
+    "ultimate_question": "Will another MrBeast video get 100m+ week 1 views by November 30?",
+    "period_idx": 0,
+    "p_u": 0.65
+  },
+  {
+    "ultimate_question": "U.S. agrees to a new trade deal with \"Argentina\"?",
+    "period_idx": 2,
+    "p_u": 0.05
+  },
+  {
+    "ultimate_question": "U.S. enacts AI safety bill in 2025?",
+    "period_idx": 1,
+    "p_u": 0.18
+  },
+  {
+    "ultimate_question": "Major meteor strike (10kt+) in 2025?",
+    "period_idx": 0,
+    "p_u": 0.12
+  },
+  {
+    "ultimate_question": "Jon Stewart cancelled by December 31?",
+    "period_idx": 0,
+    "p_u": 0.25
+  },
+  {
+    "ultimate_question": "Will Trump meet with Elon Musk by March 31?",
+    "period_idx": 0,
+    "p_u": 0.35
+  },
+  {
+    "ultimate_question": "Bolsonaro guilty?",
+    "period_idx": 0,
+    "p_u": 0.65
+  },
+  {
+    "ultimate_question": "Will any of the stolen Louvre jewels be returned by December 31?",
+    "period_idx": 0,
+    "p_u": 0.15
+  },
+  {
+    "ultimate_question": "U.S. x Iran Military Engagement by June 30, 2026?",
+    "period_idx": 1,
+    "p_u": 0.35
+  },
+  {
+    "ultimate_question": "Will there be exactly 1 earthquake of magnitude 7.0 or higher worldwide by December 31?",
+    "period_idx": 1,
+    "p_u": 0.32
+  },
+  {
+    "ultimate_question": "US congress stock trading ban in 2025?",
+    "period_idx": 0,
+    "p_u": 0.32
+  },
+  {
+    "ultimate_question": "Nothing Ever Happens:  Jerome Powell Edition",
+    "period_idx": 1,
+    "p_u": 0.68
+  },
+  {
+    "ultimate_question": "Will there be at least 500 measles cases in the U.S. in 2026?",
+    "period_idx": 0,
+    "p_u": 0.95
+  },
+  {
+    "ultimate_question": "Next BLS jobs report during government shutdown?",
+    "period_idx": 0,
+    "p_u": 0.15
+  },
+  {
+    "ultimate_question": "Lee Jun-seok in jail in 2025?",
+    "period_idx": 0,
+    "p_u": 0.15
+  },
+  {
+    "ultimate_question": "Will Italy win the second most medals in the 2026 Winter Olympics?",
+    "period_idx": 2,
+    "p_u": 0.07
+  },
+  {
+    "ultimate_question": " James Comey indicted before October?",
+    "period_idx": 0,
+    "p_u": 0.05
+  },
+  {
+    "ultimate_question": "Will the Fed Pause–Pause–Pause in the next three decisions (Dec–Jan–Mar)?",
+    "period_idx": 0,
+    "p_u": 0.68
+  },
+  {
+    "ultimate_question": "Progressive Cities Parlay",
+    "period_idx": 1,
+    "p_u": 0.68
+  },
+  {
+    "ultimate_question": "Ahmed al-Sharaa out as leader of Syria in 2025?",
+    "period_idx": 0,
+    "p_u": 0.18
+  },
+  {
+    "ultimate_question": "Will Venezuela invade Guyana in 2025?",
+    "period_idx": 1,
+    "p_u": 0.12
+  },
+  {
+    "ultimate_question": "Will Samsung release a trifold phone by December 31?",
+    "period_idx": 0,
+    "p_u": 0.85
+  },
+  {
+    "ultimate_question": "Will Trump act to ban mail-in voting or voting machines in 2025?",
+    "period_idx": 3,
+    "p_u": 0.15
+  },
+  {
+    "ultimate_question": "Will US GDP growth in Q3 2025 be between 2.0% and 2.5%?",
+    "period_idx": 0,
+    "p_u": 0.42
+  },
+  {
+    "ultimate_question": "GTA 6 launch postponed?",
+    "period_idx": 1,
+    "p_u": 0.35
+  },
+  {
+    "ultimate_question": "Will US GDP growth in 2025 be between 2.0% and 2.5%?",
+    "period_idx": 4,
+    "p_u": 0.35
+  },
+  {
+    "ultimate_question": "Will Tulsi Gabbard be the first to leave the Trump Cabinet before 2027?",
+    "period_idx": 1,
+    "p_u": 0.12
+  },
+  {
+    "ultimate_question": "Will MrBeast post another video on a weekday by September 30?",
+    "period_idx": 0,
+    "p_u": 0.85
+  },
+  {
+    "ultimate_question": "Will the US capture Khamenei before 2027?",
+    "period_idx": 1,
+    "p_u": 0.02
+  },
+  {
+    "ultimate_question": "Will NewJeans perform again in 2025?",
+    "period_idx": 2,
+    "p_u": 0.15
+  },
+  {
+    "ultimate_question": "Will Phantom daily builder revenue hit $300k in 2025?",
+    "period_idx": 2,
+    "p_u": 0.18
+  },
+  {
+    "ultimate_question": "Will the next government funding bill be a clean CR?",
+    "period_idx": 1,
+    "p_u": 0.35
+  },
+  {
+    "ultimate_question": "Will Israeli troops enter Suwayda in 2025?",
+    "period_idx": 1,
+    "p_u": 0.35
+  },
+  {
+    "ultimate_question": "Israel x Syria security agreement by January 31?",
+    "period_idx": 1,
+    "p_u": 0.18
+  },
+  {
+    "ultimate_question": "Will Trump veto a bill in 2025?",
+    "period_idx": 2,
+    "p_u": 0.05
+  },
+  {
+    "ultimate_question": "dogwifhat on the sphere in 2025?",
+    "period_idx": 2,
+    "p_u": 0.65
+  },
+  {
+    "ultimate_question": "Will the Fed Cut–Pause–Pause in the next three decisions (Oct–Dec–Jan)?",
+    "period_idx": 0,
+    "p_u": 0.72
+  },
+  {
+    "ultimate_question": "Will TikTok be banned in 2025?",
+    "period_idx": 0,
+    "p_u": 0.75
+  },
+  {
+    "ultimate_question": "Will MrBeast hit 500 Million subscribers by Dec 31?",
+    "period_idx": 0,
+    "p_u": 0.92
+  },
+  {
+    "ultimate_question": "Will Trump’s approval rating be 44.0–45.9% on December 31?",
+    "period_idx": 0,
+    "p_u": 0.35
+  },
+  {
+    "ultimate_question": "Rojas guilty in Texas illegal abortion case?",
+    "period_idx": 4,
+    "p_u": 0.33
+  },
+  {
+    "ultimate_question": "Will the Bank of Canada announce a 25 bps decrease at the March meeting?",
+    "period_idx": 0,
+    "p_u": 0.35
+  },
+  {
+    "ultimate_question": "U.S. fertility rate up in Q2 2025?",
+    "period_idx": 0,
+    "p_u": 0.32
+  },
+  {
+    "ultimate_question": "Will Eric Adams join Trump administration by December 31?",
+    "period_idx": 0,
+    "p_u": 0.35
+  },
+  {
+    "ultimate_question": "Apple AirTags 2 priced below $30 USD at release?",
+    "period_idx": 0,
+    "p_u": 0.35
+  },
+  {
+    "ultimate_question": "Will BLS stop reporting payroll data this year?",
+    "period_idx": 1,
+    "p_u": 0.15
+  },
+  {
+    "ultimate_question": "Brazilian Supreme Court Minister Alexandre de Moraes be impeached 2025?",
+    "period_idx": 0,
+    "p_u": 0.15
+  },
+  {
+    "ultimate_question": "Will the US strike 3 countries in 2026?",
+    "period_idx": 2,
+    "p_u": 0.95
+  },
+  {
+    "ultimate_question": "Will Trump try to fire another Fed Governor by October 31?",
+    "period_idx": 0,
+    "p_u": 0.15
+  },
+  {
+    "ultimate_question": "Will Trump lower tariffs on Canada by December 31?",
+    "period_idx": 2,
+    "p_u": 0.12
+  },
+  {
+    "ultimate_question": "Julie Masino out as Cracker Barrel CEO in 2025? ",
+    "period_idx": 2,
+    "p_u": 0.32
+  },
+  {
+    "ultimate_question": "Will Microstrategy's mNAV dip to 1.00 by December 31?",
+    "period_idx": 1,
+    "p_u": 0.58
+  },
+  {
+    "ultimate_question": "Will Drake's next album debut No.1 on Billboard 200?",
+    "period_idx": 0,
+    "p_u": 0.85
+  },
+  {
+    "ultimate_question": "Half-Life 3 released in 2025?",
+    "period_idx": 2,
+    "p_u": 0.15
+  },
+  {
+    "ultimate_question": "Will Trump publicly disparage Netanyahu by December 31?",
+    "period_idx": 0,
+    "p_u": 0.38
+  },
+  {
+    "ultimate_question": "Will Russia enter Toretske by December 31?",
+    "period_idx": 0,
+    "p_u": 0.15
+  },
+  {
+    "ultimate_question": "Will Elon and DOGE cut 100-150k employees in 2025?",
+    "period_idx": 3,
+    "p_u": 0.05
+  },
+  {
+    "ultimate_question": "Pakistan strike on India by December 31?",
+    "period_idx": 0,
+    "p_u": 0.12
+  },
+  {
+    "ultimate_question": "Clarity Act signed into law in 2025?",
+    "period_idx": 0,
+    "p_u": 0.45
+  },
+  {
+    "ultimate_question": "Nothing Ever Happens: MrBeast Edition",
+    "period_idx": 0,
+    "p_u": 0.72
+  },
+  {
+    "ultimate_question": "NATO downs another Russian drone by December 31?",
+    "period_idx": 1,
+    "p_u": 0.72
+  },
+  {
+    "ultimate_question": "Nothing Ever Happens: Taylor Swift Edition",
+    "period_idx": 1,
+    "p_u": 0.05
+  },
+  {
+    "ultimate_question": "John Bolton federally charged by October 31?",
+    "period_idx": 1,
+    "p_u": 0.72
+  },
+  {
+    "ultimate_question": "Will Kamala Harris endorse Mamdani?",
+    "period_idx": 0,
+    "p_u": 0.15
+  },
+  {
+    "ultimate_question": "Will SpaceX Starship Flight Test 12 launch by November 30?",
+    "period_idx": 0,
+    "p_u": 0.65
+  },
+  {
+    "ultimate_question": "Will Khamenei visit Russia by June 30?",
+    "period_idx": 0,
+    "p_u": 0.65
+  },
+  {
+    "ultimate_question": "Will Han Duck-soo be sentenced to prison before 2027?",
+    "period_idx": 0,
+    "p_u": 0.72
+  },
+  {
+    "ultimate_question": "Will Crude Oil (CL) hit (HIGH) $70 by end of June?",
+    "period_idx": 0,
+    "p_u": 0.38
+  },
+  {
+    "ultimate_question": "David Baszucki out as Roblox CEO in 2025?",
+    "period_idx": 1,
+    "p_u": 0.18
+  },
+  {
+    "ultimate_question": "Will the U.S. national debt hit $38 trillion in 2025?",
+    "period_idx": 1,
+    "p_u": 0.78
+  },
+  {
+    "ultimate_question": "Will CME self certify a sports contract in 2025?",
+    "period_idx": 0,
+    "p_u": 0.22
+  },
+  {
+    "ultimate_question": "Will SpaceX Starship Flight Test 11 Superheavy explode?",
+    "period_idx": 0,
+    "p_u": 0.35
+  },
+  {
+    "ultimate_question": "Will Atlas have a Windows app live by December 31?",
+    "period_idx": 0,
+    "p_u": 0.85
+  },
+  {
+    "ultimate_question": "Will Graham Platner drop out of Maine Senate race by December 31?",
+    "period_idx": 0,
+    "p_u": 0.65
+  },
+  {
+    "ultimate_question": "Will Consensys IPO by December 31 2025?",
+    "period_idx": 1,
+    "p_u": 0.35
+  },
+  {
+    "ultimate_question": "Trump declares another national emergency by December 31?",
+    "period_idx": 0,
+    "p_u": 0.38
+  },
+  {
+    "ultimate_question": "Will Israel strike 0 countries in 2026?",
+    "period_idx": 0,
+    "p_u": 0.15
+  },
+  {
+    "ultimate_question": "30-year mortgage rate below 6% by December 31?",
+    "period_idx": 0,
+    "p_u": 0.32
+  },
+  {
+    "ultimate_question": "Will Russia capture Bilytske by February 28, 2026?",
+    "period_idx": 0,
+    "p_u": 0.32
+  },
+  {
+    "ultimate_question": "Trump enacts a de minimis crypto tax exemption before 2026?",
+    "period_idx": 3,
+    "p_u": 0.27
+  },
+  {
+    "ultimate_question": "Will Atlas introduce ads by December 31?",
+    "period_idx": 0,
+    "p_u": 0.35
+  },
+  {
+    "ultimate_question": "Will Atlas have an iOS app live by December 31?",
+    "period_idx": 0,
+    "p_u": 0.85
+  },
+  {
+    "ultimate_question": "Meta releases Llama 5 in 2025?",
+    "period_idx": 0,
+    "p_u": 0.15
+  },
+  {
+    "ultimate_question": "Cluely CEO Roy Lee in jail in 2025",
+    "period_idx": 0,
+    "p_u": 0.12
+  },
+  {
+    "ultimate_question": "Will Jesse Pollak appear on the UpOnly podcast by December 31?",
+    "period_idx": 0,
+    "p_u": 0.15
+  },
+  {
+    "ultimate_question": "Russia x Ukraine buffer zone agreement by December 31?",
+    "period_idx": 1,
+    "p_u": 0.08
+  },
+  {
+    "ultimate_question": "Will Lionel Messi announce his retirement in 2025?",
+    "period_idx": 0,
+    "p_u": 0.15
+  },
+  {
+    "ultimate_question": "Will the 10-year Treasury yield dip below 3.9% in 2025?",
+    "period_idx": 1,
+    "p_u": 0.32
+  },
+  {
+    "ultimate_question": "Lisa Cook out as Fed Governor by February 28?",
+    "period_idx": 0,
+    "p_u": 0.15
+  },
+  {
+    "ultimate_question": "Russian strike on a NATO member by December 31?",
+    "period_idx": 0,
+    "p_u": 0.18
+  },
+  {
+    "ultimate_question": "Will Russia capture Drobysheve by February 28?",
+    "period_idx": 0,
+    "p_u": 0.66
+  },
+  {
+    "ultimate_question": "Will BTS release any tracks in 2025?",
+    "period_idx": 3,
+    "p_u": 0.15
+  },
+  {
+    "ultimate_question": "Will the Canberra Raiders win the 2025 National Rugby League?",
+    "period_idx": 0,
+    "p_u": 0.65
+  },
+  {
+    "ultimate_question": "GPT transaction fees by December 31?",
+    "period_idx": 0,
+    "p_u": 0.23
+  },
+  {
+    "ultimate_question": "Trump Crypto Pardon Parlay",
+    "period_idx": 0,
+    "p_u": 0.65
+  },
+  {
+    "ultimate_question": "Will Pieter Mulier be named the next creative director of Versace?",
+    "period_idx": 1,
+    "p_u": 0.62
+  },
+  {
+    "ultimate_question": "Will Apple release a new version of the Apple TV by December 31?",
+    "period_idx": 1,
+    "p_u": 0.75
+  },
+  {
+    "ultimate_question": "John Brennan federally charged by December 31?",
+    "period_idx": 1,
+    "p_u": 0.72
+  },
+  {
+    "ultimate_question": "Will Travis Hunter only play defense?",
+    "period_idx": 0,
+    "p_u": 0.32
+  },
+  {
+    "ultimate_question": "Trump appoints special prosecutor for Epstein case in 2025?",
+    "period_idx": 2,
+    "p_u": 0.15
+  },
+  {
+    "ultimate_question": "Tech Release Parlay",
+    "period_idx": 0,
+    "p_u": 0.12
+  },
+  {
+    "ultimate_question": "Up Only podcast released by December 31?",
+    "period_idx": 0,
+    "p_u": 0.15
+  },
+  {
+    "ultimate_question": "Will Mark Teixeira be the Republican nominee for TX-21?",
+    "period_idx": 1,
+    "p_u": 0.75
+  },
+  {
+    "ultimate_question": "Will the Sanctioning Russia Act of 2025 (S.1241) be signed into law by December 31 2025?",
+    "period_idx": 0,
+    "p_u": 0.35
+  },
+  {
+    "ultimate_question": "Atlas global browser market share 5%+ on December 31?",
+    "period_idx": 0,
+    "p_u": 0.15
+  },
+  {
+    "ultimate_question": "Will Donna Miller be the Democratic Nominee for IL-02?",
+    "period_idx": 2,
+    "p_u": 0.44
+  },
+  {
+    "ultimate_question": "Will Charli XCX release a new song in 2026?",
+    "period_idx": 0,
+    "p_u": 0.58
+  },
+  {
+    "ultimate_question": "Will New Glenn Flight 3 launch by January 31, 2026?",
+    "period_idx": 0,
+    "p_u": 0.75
+  },
+  {
+    "ultimate_question": "Will Marc-André ter Stegen sign with a new club during the winter transfer window?",
+    "period_idx": 0,
+    "p_u": 0.05
+  },
+  {
+    "ultimate_question": "Will Ghislaine Maxwell cut a deal with the Feds in 2025?",
+    "period_idx": 2,
+    "p_u": 0.32
+  },
+  {
+    "ultimate_question": "Will Trump send the national guard to Boston by December 31?",
+    "period_idx": 0,
+    "p_u": 0.35
+  },
+  {
+    "ultimate_question": "Will Melissa Conyears Ervin be the Democratic Nominee for IL-07?",
+    "period_idx": 2,
+    "p_u": 0.38
+  },
+  {
+    "ultimate_question": "Will Tesla deliver between 425000 and 450000 vehicles in Q4 2025",
+    "period_idx": 0,
+    "p_u": 0.72
+  },
+  {
+    "ultimate_question": "Palmer Luckey Erebor Bank chartered in 2025?",
+    "period_idx": 0,
+    "p_u": 0.4
+  },
+  {
+    "ultimate_question": "Will Tucker Carlson interview Trump by February 28?",
+    "period_idx": 3,
+    "p_u": 0.15
+  },
+  {
+    "ultimate_question": "\"The Witcher: Season 4\" Rotten Tomatoes score is between 45 and 59?",
+    "period_idx": 2,
+    "p_u": 0.15
+  },
+  {
+    "ultimate_question": "Will MrBeast hit 107 billion views by March 31?",
+    "period_idx": 0,
+    "p_u": 0.94
+  },
+  {
+    "ultimate_question": "Will Frank Ocean release an album in 2025?",
+    "period_idx": 2,
+    "p_u": 0.05
+  },
+  {
+    "ultimate_question": "Will Laura Loomer join Trump administration by December 31?",
+    "period_idx": 0,
+    "p_u": 0.18
+  },
+  {
+    "ultimate_question": "Will Francis Ellis win the 2025 Internet Invitational?",
+    "period_idx": 2,
+    "p_u": 0.05
+  },
+  {
+    "ultimate_question": "Will Prince Andrew be named in newly released Epstein files by March 31?",
+    "period_idx": 0,
+    "p_u": 0.75
+  },
+  {
+    "ultimate_question": "Will Trump meet with Maria Corina Machado in 2026?",
+    "period_idx": 0,
+    "p_u": 0.65
+  },
+  {
+    "ultimate_question": "Will Maduro's rule survive a US military engagement?",
+    "period_idx": 0,
+    "p_u": 0.12
+  },
+  {
+    "ultimate_question": "Trump cabinet member out by December 31, 2025?",
+    "period_idx": 0,
+    "p_u": 0.95
+  },
+  {
+    "ultimate_question": "Will Dan Bongino leave the Trump administration in 2025?",
+    "period_idx": 2,
+    "p_u": 0.15
+  },
+  {
+    "ultimate_question": "Cardano ETF in 2025?",
+    "period_idx": 1,
+    "p_u": 0.95
+  },
+  {
+    "ultimate_question": "Choo Kyung-ho in jail by December 31?",
+    "period_idx": 0,
+    "p_u": 0.15
+  },
+  {
+    "ultimate_question": "Will 7-9 SpaceX Starship launches successfully reach Space in 2025?",
+    "period_idx": 0,
+    "p_u": 0.15
+  },
+  {
+    "ultimate_question": "Will OpenAI acquire Chrome by December 31?",
+    "period_idx": 1,
+    "p_u": 0.02
+  },
+  {
+    "ultimate_question": "U.S. x Russia Nuclear deal by December 31?",
+    "period_idx": 2,
+    "p_u": 0.35
+  },
+  {
+    "ultimate_question": "xAI IPO before 2027?",
+    "period_idx": 1,
+    "p_u": 0.15
+  },
+  {
+    "ultimate_question": "Will Russia enter Borova by December 31?",
+    "period_idx": 0,
+    "p_u": 0.18
+  },
+  {
+    "ultimate_question": "Will Ukraine agree to cede territory to Russia in 2025?",
+    "period_idx": 1,
+    "p_u": 0.35
+  },
+  {
+    "ultimate_question": "Will 2025 be the second hottest year on record?",
+    "period_idx": 4,
+    "p_u": 0.75
+  },
+  {
+    "ultimate_question": "Will Trump talk to Nicolás Maduro by December 31?",
+    "period_idx": 1,
+    "p_u": 0.35
+  },
+  {
+    "ultimate_question": "Trump invokes War Powers against Iran by March 31, 2026?",
+    "period_idx": 1,
+    "p_u": 0.18
+  },
+  {
+    "ultimate_question": "OpenAI social app in 2025?",
+    "period_idx": 0,
+    "p_u": 0.35
+  },
+  {
+    "ultimate_question": "Will Google Gemini 3 score at least 40% on Humanity’s Last Exam by January 31?",
+    "period_idx": 0,
+    "p_u": 0.44
+  },
+  {
+    "ultimate_question": "Ukraine agrees not to join NATO in 2025? ",
+    "period_idx": 3,
+    "p_u": 0.65
+  },
+  {
+    "ultimate_question": "Will a new country join the Abraham Accords in 2025?",
+    "period_idx": 2,
+    "p_u": 0.12
+  },
+  {
+    "ultimate_question": "Another France debt downgrade by December 31?",
+    "period_idx": 0,
+    "p_u": 0.71
+  },
+  {
+    "ultimate_question": "Will Donald Trump visit North Korea in 2025?",
+    "period_idx": 1,
+    "p_u": 0.12
+  },
+  {
+    "ultimate_question": "Tesla launches unsupervised full self driving (FSD) by June 30?",
+    "period_idx": 0,
+    "p_u": 0.15
+  },
+  {
+    "ultimate_question": "U.S. agrees to give Ukraine security guarantee in 2025? ",
+    "period_idx": 2,
+    "p_u": 0.18
+  },
+  {
+    "ultimate_question": "Somalians who defrauded government to fund terrorists deported?",
+    "period_idx": 1,
+    "p_u": 0.65
+  },
+  {
+    "ultimate_question": "Isar Aerospace successful orbital launch in 2025?",
+    "period_idx": 2,
+    "p_u": 0.65
+  },
+  {
+    "ultimate_question": "Will US GDP growth in Q4 2025 be between 2.0% and 2.5%?",
+    "period_idx": 2,
+    "p_u": 0.32
+  },
+  {
+    "ultimate_question": "Foreign intervention in Gaza in 2025?",
+    "period_idx": 0,
+    "p_u": 0.75
+  },
+  {
+    "ultimate_question": "U.S. recognizes Russian sovereignty over Crimea in 2025? ",
+    "period_idx": 2,
+    "p_u": 0.03
+  },
+  {
+    "ultimate_question": "Will EJ Antoni be confirmed as BLS Commissioner in 2025?",
+    "period_idx": 0,
+    "p_u": 0.65
+  },
+  {
+    "ultimate_question": "TikTok sale announced in 2025?",
+    "period_idx": 0,
+    "p_u": 0.65
+  },
+  {
+    "ultimate_question": "Trump meets Xi, Putin, and Kim by December 31?",
+    "period_idx": 0,
+    "p_u": 0.18
+  },
+  {
+    "ultimate_question": "EU sanctions on Israel by December 31?",
+    "period_idx": 0,
+    "p_u": 0.28
+  },
+  {
+    "ultimate_question": "Trump eliminates capital gains tax on crypto in 2025?",
+    "period_idx": 1,
+    "p_u": 0.07
+  },
+  {
+    "ultimate_question": "Will Tesla launch a driverless Robotaxi service in 2025?",
+    "period_idx": 0,
+    "p_u": 0.15
+  },
+  {
+    "ultimate_question": "Will there be no US government shutdown by January 31 and will the Republican Party win the House in 2026?",
+    "period_idx": 1,
+    "p_u": 0.68
+  },
+  {
+    "ultimate_question": "Negative GDP growth in Q4 2025?",
+    "period_idx": 0,
+    "p_u": 0.28
+  },
+  {
+    "ultimate_question": "Will Russia capture Pokrovsk train station by October 31?",
+    "period_idx": 1,
+    "p_u": 0.12
+  },
+  {
+    "ultimate_question": "Brazil unemployment below 6.3% for Q4 2025?",
+    "period_idx": 1,
+    "p_u": 0.85
+  },
+  {
+    "ultimate_question": "Will Trump pardon Sam Bankman-Fried in 2025?",
+    "period_idx": 1,
+    "p_u": 0.35
+  },
+  {
+    "ultimate_question": "Will Claude 5 be released by December 31?",
+    "period_idx": 1,
+    "p_u": 0.15
+  },
+  {
+    "ultimate_question": "Will Russia capture Huliaipole by December 31?",
+    "period_idx": 1,
+    "p_u": 0.18
+  },
+  {
+    "ultimate_question": "Will Azerbaijan join the Abraham Accords in 2025?",
+    "period_idx": 1,
+    "p_u": 0.35
+  },
+  {
+    "ultimate_question": "Will Trump visit Gaza by Dec 31?",
+    "period_idx": 0,
+    "p_u": 0.45
+  },
+  {
+    "ultimate_question": "Will Iran withdraw from the NPT in 2025?",
+    "period_idx": 0,
+    "p_u": 0.35
+  },
+  {
+    "ultimate_question": "Will less than 12 named storms occur in the 2025 Atlantic hurricane season?",
+    "period_idx": 1,
+    "p_u": 0.15
+  },
+  {
+    "ultimate_question": "Will Trump announce a national housing emergency in 2025?",
+    "period_idx": 2,
+    "p_u": 0.28
+  },
+  {
+    "ultimate_question": "Will Trump meet with Putin by December 31?",
+    "period_idx": 0,
+    "p_u": 0.35
+  },
+  {
+    "ultimate_question": "TrumpRX launched by January 31, 2026?",
+    "period_idx": 2,
+    "p_u": 0.85
+  },
+  {
+    "ultimate_question": "US bank failure by March 31?",
+    "period_idx": 1,
+    "p_u": 0.18
+  },
+  {
+    "ultimate_question": "Will ChatGPT reach 1b monthly active users in 2025?",
+    "period_idx": 0,
+    "p_u": 0.18
+  },
+  {
+    "ultimate_question": "Israel x Turkey military clash in 2025?",
+    "period_idx": 0,
+    "p_u": 0.23
+  },
+  {
+    "ultimate_question": "Trump x Putin Meeting in Hungary by Dec 31?",
+    "period_idx": 0,
+    "p_u": 0.85
+  }
+]
